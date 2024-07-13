@@ -1,6 +1,8 @@
 use std::collections::HashMap;
 use uuid::Uuid;
 
+pub mod fs;
+
 /*
 pub mod basic {
   tonic::include_proto!("basic");

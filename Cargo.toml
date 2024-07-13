@@ -7,3 +7,4 @@ edition = "2021"
 
 [dependencies]
 uuid = "1"
+walkdir = "2"
